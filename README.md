@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roilhi
 - 👀 I’m interested on Data Science, Machine Learning, Deep Learning and Python Development
-- 🌱 I’m currently learning Neural Networks, Pythorch, Python Web Development, DevOps (Docker, Kubernetes), Javascript and React
+- 🌱 I’m currently learning Neural Networks, Pythorch, Python Web Development (Django, Flask Fast API), DevOps (Docker, Kubernetes), Javascript and React
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me roilhi@gmail.com, @roilhi_ibarra on Twitter
 
